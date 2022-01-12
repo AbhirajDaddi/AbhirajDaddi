@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhirajDaddi
+- 👋 Hi, I’m Abhiraj!
 - 👀 I’m interested in Biomedical Engineering and A.I.
 - 🌱 I’m currently learning JavaScript
 
